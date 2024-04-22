@@ -2,8 +2,9 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++, python;
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Data Scientist...
+- 📫 How to reach me ... LinkedIn
+- Data science student with a relentless curiosity for uncovering insights from data.
+-Always eager to learn and adapt
 
 <!---
 Nandini573/Nandini573 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
