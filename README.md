@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandini Mishra</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
-- 🌱 I’m currently learning **Statistic,Machine Laerning,EDA,Deep learning,AI**
+- 🌱 I’m currently learning Statistic,Machine Laerning,EDA,Deep learning,AI
 
 - 📫 How to reach me **nandini20003@gmail.com**
 
